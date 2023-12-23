@@ -1,7 +1,7 @@
 # Leetcode Python Solutions
 #
 
-This repository contains Python solutions to various coding problems from Leetcode. Each problem has its own dedicated file, which includes a Python file containing the solution code. The solutions provided here aim to be concise, efficient, and follow best coding practices.
+This repository contains Python solutions to various coding problems from Leetcode. Each problem has its own dedicated file, which includes the solution code. The solutions provided here aim to be concise, efficient, and follow best coding practices.
 
 ### Follow Me On
 <a href="https://leetcode.com/siddharthahingane/" target="_blank">
